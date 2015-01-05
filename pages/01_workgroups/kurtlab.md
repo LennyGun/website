@@ -10,11 +10,10 @@ Our employed methods include standard electrophysiological techniques, behaviour
 
 **Contact Information:**
 
-Medizinische Hochschule Hannover
-
-Feodor-Lynen-Straße 27
-
-30625 Hannover
+    Prof. Simone Kurt
+    Medizinische Hochschule Hannover
+    Feodor-Lynen-Straße 27
+    30625 Hannover
 
 A list of the staff can be found [here](/kurt/staff).
 
