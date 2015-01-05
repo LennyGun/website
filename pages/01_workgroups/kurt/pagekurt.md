@@ -1,6 +1,6 @@
 ## Jun. Prof. Dr. Simone Kurt
 
-![Image Simone Kurt](.png)
+![Image Simone Kurt](S_Kurt.png)
 
 **Academic Education**
 
