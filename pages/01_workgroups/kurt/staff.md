@@ -2,7 +2,7 @@ title: Kurt Lab - Staff
 
 **Head of research group**
 
-![Image S_Kurt](S_Kurt.png)
+![Image S_Kurt](S_Kurt.jpeg)
 
 Jun. Prof. Dr. Simone Kurt | kurt.simone(at)mh-hannover.de
 
