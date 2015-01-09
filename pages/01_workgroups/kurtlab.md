@@ -2,11 +2,11 @@ title: Kurt Lab - Pathophysiology
 
 ##Kurt Lab - Pathophysiology of the Auditory System
 
-The cochlear implant is a powerful solution for most sensorineural hearing loss patients. However, there is a minority of patients with impaired auditory nerve who would not benefit from a chochlear implant. A solution for those patients are auditory midbrain implants. For such devices, knowledge about the processing between these lower-order structures and the cortical representation needs still to be gathered. 
+Our research is focused on neuroprosthetic devices within the auditory system and methods of artificial stimulation of the nervous system to replace lost auditory function. We try to replace lost neural function by an implant to understand how artificial stimulation will represent the world and how neuronal circuits process information. 
 
-Our research is centered around stimulation of the auditory midbrain in order to elicit a hearing sensation.
-We aim to develop new stimulation paradigms and prosthesis concepts by investigating cortical and subcortical processing.
-Our employed methods include standard electrophysiological techniques, behavioural experimental systems as well as cutting-edge optogenetics.
+The goal of our research is to understand the neuronal mechanisms by which neurons in the auditory cortex construct a precise representation of acoustic signals resulting from neuronal implants. Using chronic recordings of neuronal activity in the auditory cortex,  we try to identify such sound representations. 
+Another line of research in the laboratory investigates auditory discrimination learning and auditory perception.
+
 
 **Contact Information:**
 
